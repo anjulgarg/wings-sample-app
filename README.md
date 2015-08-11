@@ -1,5 +1,5 @@
 # Wings Framework Sample Application
-### This is a sample Wings Application for eclipse. It contains the wings-config and web.xml files. All the necessary jar files are also present. Simply clone this repository and import into eclipse to start working with Wings.
+##### This is a sample Wings Application for eclipse. It contains the wings-config and web.xml files. All the necessary jar files are also present. Simply clone this repository and import into eclipse to start working with Wings.
 
 ### Getting Started
 * Clone the repository and import into eclipse. 

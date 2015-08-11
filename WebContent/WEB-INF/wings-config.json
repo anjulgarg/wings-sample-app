@@ -1,0 +1,38 @@
+{
+
+	"DEBUG_MODE" : "true",
+	
+	"CSRF_CHECK" : "true",
+	
+	"ROUTES_CLASS" : "routes.Routes",
+	
+	"SKIP_URL" : [ 
+					"/exclude",
+					"/exclude-another-url",
+					"/and-another"
+				 ],
+	
+	
+	
+	"MAIL_HOST" : "smtp.gmail.com",
+	
+	"MAIL_PORT"	: "587",
+	
+	"MAIL_AUTH"	: "true",	 
+	
+	"MAIL_USERNAME" : "user@example.com",
+	
+	"MAIL_PASSWORD" : "password123",		
+	
+	
+	
+	"DB_TYPE" : "mysql",
+	
+	"DB_NAME" : "",
+	
+	"DB_HOST" : "localhost",
+	
+	"DB_USERNAME" : "root",
+	
+	"DB_PASSWORD" : ""
+}

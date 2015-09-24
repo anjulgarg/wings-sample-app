@@ -12,3 +12,5 @@ This is a sample Wings Application for eclipse. It contains the wings-config and
 * Start the server and open http://localhost:8080 in your web browser.
 
 #### You can read the official documentation [here](http://wings.loonydev.com/docs/).
+
+#### If you wish to contribute to the Wings Framework or go through the source code. The official repo can be found [here](https://github.com/anjulgarg/wings-framework).
